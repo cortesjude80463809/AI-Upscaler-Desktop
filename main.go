@@ -1,0 +1,3 @@
+package main
+
+const projectName = "AI Image & Video Upscaler 2026"
